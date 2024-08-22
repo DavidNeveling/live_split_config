@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Full Puzzle Series</GameName>
+  <CategoryName>Any%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>19</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="01/05/2023 01:54:00" isStartedSynced="True" ended="01/05/2023 01:59:11" isEndedSynced="True">
+      <RealTime>00:05:10.7134550</RealTime>
+    </Attempt>
+    <Attempt id="2" started="01/05/2023 03:12:43" isStartedSynced="True" ended="01/05/2023 03:16:54" isEndedSynced="True">
+      <RealTime>00:04:10.7656250</RealTime>
+    </Attempt>
+    <Attempt id="3" started="01/05/2023 03:51:52" isStartedSynced="True" ended="01/05/2023 03:55:40" isEndedSynced="True">
+      <RealTime>00:03:47.8012140</RealTime>
+    </Attempt>
+    <Attempt id="4" started="01/05/2023 03:59:27" isStartedSynced="True" ended="01/05/2023 04:04:04" isEndedSynced="True">
+      <RealTime>00:04:36.7147200</RealTime>
+    </Attempt>
+    <Attempt id="5" started="01/05/2023 04:07:44" isStartedSynced="True" ended="01/05/2023 04:08:48" isEndedSynced="True" />
+    <Attempt id="6" started="01/05/2023 04:09:17" isStartedSynced="True" ended="01/05/2023 04:13:13" isEndedSynced="True">
+      <RealTime>00:03:55.5231030</RealTime>
+    </Attempt>
+    <Attempt id="7" started="01/05/2023 04:15:13" isStartedSynced="True" ended="01/05/2023 04:18:16" isEndedSynced="True">
+      <RealTime>00:03:03.0750630</RealTime>
+    </Attempt>
+    <Attempt id="8" started="01/05/2023 18:29:41" isStartedSynced="False" ended="01/05/2023 18:32:30" isEndedSynced="True" />
+    <Attempt id="9" started="01/05/2023 18:33:27" isStartedSynced="True" ended="01/05/2023 18:35:26" isEndedSynced="True" />
+    <Attempt id="10" started="01/05/2023 18:37:45" isStartedSynced="True" ended="01/05/2023 18:40:50" isEndedSynced="True">
+      <RealTime>00:03:05.1829110</RealTime>
+    </Attempt>
+    <Attempt id="11" started="01/05/2023 18:47:23" isStartedSynced="True" ended="01/05/2023 18:51:33" isEndedSynced="True">
+      <RealTime>00:04:09.7597750</RealTime>
+    </Attempt>
+    <Attempt id="12" started="01/05/2023 18:54:24" isStartedSynced="True" ended="01/05/2023 18:57:01" isEndedSynced="True">
+      <RealTime>00:02:36.7297190</RealTime>
+    </Attempt>
+    <Attempt id="13" started="01/08/2023 10:27:18" isStartedSynced="True" ended="01/08/2023 10:27:28" isEndedSynced="True" />
+    <Attempt id="14" started="01/08/2023 10:29:55" isStartedSynced="True" ended="01/08/2023 10:29:55" isEndedSynced="True" />
+    <Attempt id="15" started="01/08/2023 10:30:01" isStartedSynced="True" ended="01/08/2023 11:07:56" isEndedSynced="True">
+      <RealTime>00:37:55.2169490</RealTime>
+    </Attempt>
+    <Attempt id="16" started="01/08/2023 11:33:29" isStartedSynced="True" ended="01/08/2023 12:04:17" isEndedSynced="True">
+      <RealTime>00:30:48.6276800</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Pyraminx</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:38.9067590</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:35.7435680</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:37.6714360</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:45.8208130</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:39.5717090</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:15.2162220</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:03.5409930</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:51.8340640</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:55.7307230</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:00:53.6353190</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:49.9185250</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:46.9588990</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:08.0699000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:35.7435680</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:00:39.7352080</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:38.9067590</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>2x2 Cube</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:02.4660858</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:23.5593268</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:00:26.6718000</RealTime>
+        </Time>
+        <Time id="1">
+          <RealTime>00:00:51.7452670</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:45.7365970</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:35.7512060</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:01.3012350</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:56.2361350</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:37.5363590</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:39.0263730</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:11.7990960</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:26.6717990</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:00:25.4293939</RealTime>
+        </Time>
+        <Time id="-2">
+          <RealTime>00:00:25.4293950</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:23.5593268</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>3x3 Cube</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:27.7254911</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:25.2594053</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:01:34.3143510</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:01:29.8079810</RealTime>
+        </Time>
+        <Time id="1">
+          <RealTime>00:02:41.2967510</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:39.2082140</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:32.4782960</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:20.1972630</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:07.4529030</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:29.8079800</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:39.1976390</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:49.8907770</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:34.3143520</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:39.1714860</RealTime>
+        </Time>
+        <Time id="-2">
+          <RealTime>00:01:39.1714859</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:25.2594053</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Windmill Cube</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:58.3466188</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:30.6211277</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:05:51.0723740</RealTime>
+        </Time>
+        <Time id="-2">
+          <RealTime>00:05:51.0723751</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:04:30.6211277</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Axis Cube</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:30:48.6276800</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:23:50.2810612</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:29:19.8084850</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:23:50.2810612</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

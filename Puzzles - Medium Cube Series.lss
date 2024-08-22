@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Puzzles</GameName>
+  <CategoryName>Medium Cube Series</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>19</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="10/01/2023 12:04:06" isStartedSynced="True" ended="10/01/2023 12:04:16" isEndedSynced="True">
+      <PauseTime>00:00:07.7888520</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="10/01/2023 12:05:00" isStartedSynced="True" ended="10/01/2023 12:05:42" isEndedSynced="True" />
+    <Attempt id="3" started="10/01/2023 12:05:51" isStartedSynced="True" ended="10/01/2023 12:06:35" isEndedSynced="True" />
+    <Attempt id="4" started="10/01/2023 12:21:42" isStartedSynced="True" ended="10/01/2023 12:26:53" isEndedSynced="True">
+      <RealTime>00:05:11.0040620</RealTime>
+    </Attempt>
+    <Attempt id="5" started="10/01/2023 22:59:39" isStartedSynced="True" ended="10/01/2023 23:00:18" isEndedSynced="True" />
+    <Attempt id="6" started="10/01/2023 23:13:02" isStartedSynced="True" ended="10/01/2023 23:17:37" isEndedSynced="True">
+      <RealTime>00:04:34.6807929</RealTime>
+    </Attempt>
+    <Attempt id="7" started="10/02/2023 09:49:10" isStartedSynced="True" ended="10/02/2023 09:49:11" isEndedSynced="True" />
+    <Attempt id="8" started="10/02/2023 09:49:15" isStartedSynced="True" ended="10/02/2023 09:54:22" isEndedSynced="True">
+      <RealTime>00:05:06.3167258</RealTime>
+    </Attempt>
+    <Attempt id="9" started="10/02/2023 09:56:28" isStartedSynced="True" ended="10/02/2023 10:02:16" isEndedSynced="True">
+      <RealTime>00:05:48.3084986</RealTime>
+    </Attempt>
+    <Attempt id="10" started="10/02/2023 10:07:14" isStartedSynced="True" ended="10/02/2023 10:11:57" isEndedSynced="True">
+      <RealTime>00:04:43.6700609</RealTime>
+    </Attempt>
+    <Attempt id="11" started="10/02/2023 10:14:57" isStartedSynced="True" ended="10/02/2023 10:15:12" isEndedSynced="True" />
+    <Attempt id="12" started="10/02/2023 10:15:30" isStartedSynced="True" ended="10/02/2023 10:20:25" isEndedSynced="True">
+      <RealTime>00:04:55.4208453</RealTime>
+    </Attempt>
+    <Attempt id="13" started="10/02/2023 10:23:59" isStartedSynced="True" ended="10/02/2023 10:29:20" isEndedSynced="True">
+      <RealTime>00:05:20.9821815</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>2x2x2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:20.9346515</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:16.0500000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:00:35.6568046</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:20.9346515</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:00:19.1567548</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:21.4480276</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:18.4443083</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:27.6622342</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:22.9182041</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>3x3x3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:15.4522341</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:46.7200000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:01.0326369</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:54.5175826</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:04.5718744</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:02.1522644</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:52.9383017</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:58.7993231</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:51.4374759</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>4x4x4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:34.6807929</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:19.2285588</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:34.3146205</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:03:19.2285588</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:03:42.5880966</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:04:24.7082066</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:32.2874509</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:28.9592880</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:06.6265015</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
